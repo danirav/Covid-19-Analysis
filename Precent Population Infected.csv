@@ -1,0 +1,7 @@
+location,total_cases,total_deaths,population,Precent_Population_Infected,Precent_Population_Died
+China,95146,4636,1444220000,0.01,0
+Israel,1117600,7205,8789780,12.71,0.08
+Italy,4579500,129638,60367500,7.59,0.21
+Spain,4892640,85066,46745200,10.47,0.18
+"United Kingdom",7089050,133808,68207100,10.39,0.2
+"United States",40280000,650511,332915000,12.1,0.2
