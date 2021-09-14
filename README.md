@@ -11,7 +11,7 @@ And the final part was to extract the results of my queries in CSV files and use
 Here you can see the dashboard I made - https://public.tableau.com/app/profile/daniel3357/viz/Covid19Analysis_16316095255210/Dashboard1?publish=yes
 
 
-If you have any suggestions that can improve my analysis the next time I would be happy to know that
+
 
 
 # Conclusions
@@ -23,3 +23,4 @@ After analyzing and visualizing the data and the questions I wanted to get answe
 2. My country (Israel) is the top country from those I have chosen to focus on, in infection percentages. It means that our government doesn't handle the virus well.
 3. The time that took to the vaccinations to block the infections was about 1.5 months from the time people started vaccinate
 
+If you have any suggestions that can improve my analysis the next time I would be happy to know that
