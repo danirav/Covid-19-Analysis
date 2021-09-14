@@ -12,3 +12,14 @@ Here you can see the dashboard I made - https://public.tableau.com/app/profile/d
 
 
 If you have any suggestions that can improve my analysis the next time I would be happy to know that
+
+
+# Conclusions
+
+
+After analyzing and visualizing the data and the questions I wanted to get answers to, I found out few absorbing things I want to share :
+
+1. The Death Percentage is not as scary as I thought. It is only 2 percent!
+2. My country (Israel) is the top country from those I have chosen to focus on, in infection percentages. It means that our government doesn't handle the virus well.
+3. The time that took to the vaccinations to block the infections was about 1.5 months from the time people started vaccinate
+
