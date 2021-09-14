@@ -8,5 +8,6 @@ Then I handled tha Null values so they won't make any problems while importing t
 The next part was to think about intersting topics and queries ,
 so i can visualize it later in tableau and make people gain deep insights about the Covid 19,
 And the final part was to extract the results of my queries in CSV files, and use it to visualize the analysis in Tableau
+Here you can see the dashbord i made - https://public.tableau.com/app/profile/daniel3357/viz/Covid19Analysis_16316095255210/Dashboard1?publish=yes
 
 If you have any suggestions that can improve my analysis the next time I would be very happy to know that
