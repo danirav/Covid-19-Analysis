@@ -10,7 +10,7 @@ so I can visualize it later in tableau and make people gain deep insights about 
 And the final part was to extract the results of my queries in CSV files and use them to visualize the analysis in Tableau
 Here you can see the dashboard I made - https://public.tableau.com/app/profile/daniel3357/viz/Covid19Analysis_16316095255210/Dashboard1?publish=yes
 
-After analyzing and visualizing the data and the questions I wanted to get answers to, I found out few absorbing things I want to share with you :
+After analyzing and visualizing the data and the questions I wanted to get answers to, I found out few absorbing things I want to share :
 
 1. The Death Percentage is not as scary as I thought. It is only 2 percent!
 2. My country (Israel) is the top country from those I have chosen to focus on, in infection percentages. It means that our government doesn't handle the virus well.
