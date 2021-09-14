@@ -1,4 +1,4 @@
-location,total_cases,total_deaths,population,Precent_Population_Infected,Precent_Population_Died
+location,total_cases,total_deaths,population,Percent_Population_Infected,Precent_Population_Died
 China,95146,4636,1444220000,0.01,0
 Israel,1117600,7205,8789780,12.71,0.08
 Italy,4579500,129638,60367500,7.59,0.21
