@@ -9,4 +9,4 @@ The next part was to think about intersting topics and queries ,
 so i can visualize it later in tableau and make people gain deep insights about the Covid 19,
 And the final part was to extract the results of my queries in CSV files, and use it to visualize the analysis in Tableau
 
-If you have any suggestions that can improve my analysis the next time i would be very happy to know that
+If you have any suggestions that can improve my analysis the next time I would be very happy to know that
